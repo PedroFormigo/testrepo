@@ -1,3 +1,3 @@
 # testrepo
 
-Learning about GitHUB with IBM!!
+Learning about GitHub with IBM!!
